@@ -1,2 +1,2 @@
 open_file : !!str ''
-write_directory: !!str '/home/uventus/PycharmProjects/universal_cm/write_universal'
+write_directory: !!str ''
